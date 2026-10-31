@@ -1,0 +1,15 @@
+[project]
+name = "irkit"
+version = "0.1.0"
+description = "Small incident response toolkit: log triage, IOC extraction, playbooks, reports"
+requires-python = ">=3.9"
+
+[project.scripts]
+irkit = "irkit.cli:main"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["irkit"]

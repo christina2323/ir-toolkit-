@@ -1,0 +1,6 @@
+From: it-support@secure-login-portal.example
+Subject: Urgent: password expires today
+Click http://secure-login-portal.example/reset?id=8841 to keep access.
+Attachment SHA256: 275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f
+Callback host: 198.51.100.77 and update.malware-cdn.example
+Related: CVE-2024-3400
