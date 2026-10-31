@@ -16,7 +16,7 @@ A small, dependency-free Python toolkit for the first hours of a security incide
 ## Quick start
 
 ```bash
-git clone https://github.com/<you>/ir-toolkit && cd ir-toolkit
+git clone https://github.com/christina2323/ir-toolkit && cd ir-toolkit
 python -m irkit logs samples/auth.log
 python -m irkit iocs samples/phishing_email.txt --defang
 python -m irkit report --title "SSH compromise on web01" --severity high \
